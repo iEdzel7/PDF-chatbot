@@ -10,6 +10,8 @@ This repository contains a Streamlit application that allows users to interact w
 
 - **LangChain Integration**: The chatbot is powered by the LangChain API, which uses advanced natural language processing techniques to generate human-like responses.
 
+- **PDF Upload**: The user can upload a PDF, which the chatbot will understand.
+
 ## Usage
 
 To use this application, you need to have Streamlit and the other required Python libraries installed. You also need to have a Groq API key, which you can obtain by signing up on the Groq website.
